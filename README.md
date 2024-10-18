@@ -15,5 +15,5 @@
 https://github.com/italodeoliveira99/Projeto-Cafeteria/assets/97748055/ba93acc3-e3d0-4d46-99b7-923e618f41c7
 
 
-## VEJA A PÁGINA : http://127.0.0.1:5500/index.html
+
 
